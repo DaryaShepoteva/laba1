@@ -1,0 +1,37 @@
+#rectangle1 { 
+width: 450px; 
+height: 90px; 
+background: white; 
+border: 3px solid black; 
+position: relative; 
+left: 450px; 
+top: 50px; 
+} 
+
+#rectangle2 { 
+width: 100px; 
+height: 100px; 
+background: white; 
+border: 3px solid black; 
+position: relative; 
+left: 450px; 
+top: 55px; 
+} 
+#rectangle3 { 
+width: 450px; 
+height: 90px; 
+background: white; 
+border: 3px solid black; 
+position: relative; 
+left: 450px; 
+top: 60px; 
+} 
+#rectangle4 { 
+width: 100px; 
+height: 100px; 
+background: white; 
+border: 3px solid black; 
+position: relative; 
+bottom: 145px; 
+left: 800px; 
+}
